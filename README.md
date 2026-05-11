@@ -1,1 +1,1 @@
-# album-copa-2026
+# index.html
